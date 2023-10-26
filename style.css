@@ -192,12 +192,7 @@ img {
     color: white;
 }
 
-/* COUNTER */
-/* #counter {
-    background: url(/assets/image/home_bg_6.jpg);
-    background-position: center;
-    background-size: cover;
-} */
+
 
 /* PORTFOLIO */
 .portfolio-item .iconbox {
@@ -216,39 +211,6 @@ img {
     top: 50%;
 }
 
-/* REVIEW */
-.review small {
-    font-weight: 600;
-    text-transform: uppercase;
-    color: var(--c-brand);
-}
-
-.review-head {
-    position: relative;
-}
-
-.review-head::after {
-    content: "";
-    width: 28px;
-    height: 28px;
-    position: absolute;
-    bottom: -14px;
-    background-color: white;
-    transform: rotate(45deg);
-}
-
-/* TEAM */
-.team-member-content {
-    background-color: var(--c-brand);
-    position: absolute;
-    bottom: -24px;
-    left: 50%;
-    width: calc(100% - 50px);
-    transform: translateX(-50%);
-    padding: 24px;
-    transition: var(--transition);
-    opacity: 0;
-}
 
 .team-member:hover .team-member-content {
     opacity: 1;
