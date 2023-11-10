@@ -11,8 +11,3 @@ The absence of dynamic elements means no installation is required for Beautymax.
 
 ## Usage
 Beautymax serves as an interactive platform where users can explore a variety of beauty services exclusively designed for girls. The website offers a user-friendly interface, allowing visitors to view detailed descriptions of services provided. Additionally, users can access a gallery featuring images of satisfied clients who have availed the services, showcasing the beauty parlour's expertise through client photos.
-
-## Sources
-1. [FreeCodeCamp - How to Write a Good README File](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-2. [Make a README](https://www.makeareadme.com/)
-3. [My Great Learning - README File – Everything you Need to Know](https://www.mygreatlearning.com/blog/readme-file/)
